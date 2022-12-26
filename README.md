@@ -1,6 +1,6 @@
 Implementação de um circuito para a placa FPGA DE2 similar ao jogo interativo Genius.
 
-- Disciplina: Circuitos e Técnicas Digitais;
+- Disciplina: Circuitos e Técnicas Digitais (EEL5105);
 
 - Período: 2022.2;
 
